@@ -25,3 +25,7 @@ hs_err_pid*
 /customer-info-api/target/
 /customer-info-model/target/
 /customer-info-service/target/
+/customer-info-api/customer-info-api.iml
+/customer-info-model/customer-info-model.iml
+/customer-info-service/customer-info-service.iml
+/spring-boot-maven-multi-module-n-layered.iml
