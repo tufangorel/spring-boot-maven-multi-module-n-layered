@@ -1,6 +1,6 @@
 # spring-boot-maven-multi-module-n-layered
 
-**1-) Build maven submodules from parent pom.xml **
+**1-) Build maven submodules from parent pom.xml**
 
 D:\DEV\IntelliJProjects\spring-boot-maven-multi-module-n-layered> mvn clean install
 
