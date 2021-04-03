@@ -2,7 +2,7 @@
 
 **1-) Build maven submodules from parent pom.xml**
 
-D:\DEV\IntelliJProjects\spring-boot-maven-multi-module-n-layered> **mvn clean install**
+D:\DEV\IntelliJProjects\spring-boot-maven-multi-module-n-layered> **.\mvnw.cmd clean install**
 
 [INFO] ------------------------------------------------------------------------<br/>
 [INFO] Reactor Summary for spring-boot-maven-multi-module-n-layered 1.0-SNAPSHOT:<br/>
