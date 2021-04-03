@@ -29,3 +29,14 @@ hs_err_pid*
 /customer-info-model/customer-info-model.iml
 /customer-info-service/customer-info-service.iml
 /spring-boot-maven-multi-module-n-layered.iml
+
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/.jpb/jpb-settings.xml
